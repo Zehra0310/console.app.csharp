@@ -20,3 +20,6 @@
 
 7.Task7
 ![Task7](task7.png)
+
+8.Task 8
+![Task8](task8.png)
