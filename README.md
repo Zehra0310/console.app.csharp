@@ -17,3 +17,6 @@
 
 6.Task6
 ![Task6](task6.png)
+
+7.Task7
+![Task7](task7.png)
