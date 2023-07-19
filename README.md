@@ -14,3 +14,6 @@
 
 5.Convert Variable
 ![Convert Variable](convertvariable.png)
+
+6.Task6
+![Task6](task6.png)
