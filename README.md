@@ -11,3 +11,6 @@
 
 4.Score Average
 ![Score Average](scoreaverage.png)
+
+5.Convert Variable
+![Convert Variable](convertvariable.png)
