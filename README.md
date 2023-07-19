@@ -7,4 +7,7 @@
 ![Holmes Creature](holmescreature.png)
 
 3.Selsi_Faranheit
-!![Selsi Faranheit](selsifaranheit.png)
+![Selsi Faranheit](selsifaranheit.png)
+
+4.Score Average
+![Score Average](scoreaverage.png)
