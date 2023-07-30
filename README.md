@@ -26,3 +26,6 @@
 
 9.Task9
 ![checknumber](checknumber.png)
+
+10.Tas10
+![thedayoftheweek](thedayoftheweek.png)
