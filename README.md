@@ -24,8 +24,8 @@
 8.Task 8
 ![Task8](task8.png)
 
-9.Task9
+9.checknumber
 ![checknumber](checknumber.png)
 
-10.Tas10
+10.thedayoftheweek
 ![thedayoftheweek](thedayoftheweek.png)
