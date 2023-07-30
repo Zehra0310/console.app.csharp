@@ -29,3 +29,15 @@
 
 10.thedayoftheweek
 ![thedayoftheweek](thedayoftheweek.png)
+
+11.calculation
+![calculation](calculation.png)
+
+12.factorial
+![factorial](factorial.png)
+
+13.score
+![score](score.png)
+
+14.factorial2
+![factorial2](factorial2.png)
