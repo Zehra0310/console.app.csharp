@@ -41,3 +41,6 @@
 
 14.factorial2
 ![factorial2](factorial2.png)
+
+15.swap
+![swaptask](swaptask.png)
