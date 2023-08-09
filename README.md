@@ -47,3 +47,6 @@
 
 16.sumofevennumbers
 ![arraytask](arraytask.png)
+
+17.maxvalueinarray
+![maxvalue](maxvalue.png)
