@@ -53,3 +53,6 @@
 
 18.minvalueinarray
 ![minvalue](minvalue.png)
+
+19.arraytask
+![secondmaxvalue](secondmaxvalue.png)
