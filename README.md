@@ -44,3 +44,6 @@
 
 15.swap
 ![swaptask](swaptask.png)
+
+16.sumofevennumbers
+![arraytask](arraytask.png)
