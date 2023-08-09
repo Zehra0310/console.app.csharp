@@ -50,3 +50,6 @@
 
 17.maxvalueinarray
 ![maxvalue](maxvalue.png)
+
+18.minvalueinarray
+![minvalue](minvalue.png)
