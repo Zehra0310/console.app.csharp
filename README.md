@@ -56,3 +56,6 @@
 
 19.arraytask
 ![secondmaxvalue](secondmaxvalue.png)
+
+20.2*2 dimensional array
+![2*2dimensionalarray](2*2dimensionalarray.png)
