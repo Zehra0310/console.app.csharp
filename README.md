@@ -62,3 +62,6 @@
 
 21.stringmethods
 ![stringmethods](stringmethods.png)
+
+22.arraytask
+![arrayaverage](arayaverage.png)
